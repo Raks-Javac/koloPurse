@@ -16,7 +16,8 @@ dependencies:
   fluttertoast: ^8.0.7
   flutter_svg: ^0.22.0
   provider: ^5.0.0
-  http: ^0.12.2
+  http: ^0.13.3
+
 
 
   
@@ -38,7 +39,7 @@ flutter:
   fonts:
     - family: Qs
       fonts:
-        - asset: assets/images/kolopurse-logo.svg
+        - asset: assets/fonts/Quicksand-VariableFont_wght.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

@@ -17,6 +17,7 @@ class KoloPurse extends StatelessWidget {
     return MultiProvider(
       providers: providers,
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'KoloPurse',
         theme: theme,
         home: LogInScreen(),
